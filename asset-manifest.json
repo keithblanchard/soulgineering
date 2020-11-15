@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ffa9e968.chunk.css",
+    "main.js": "/static/js/main.b1fe49d1.chunk.js",
+    "main.js.map": "/static/js/main.b1fe49d1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.315e724a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.315e724a.js.map",
+    "static/js/2.8b429c52.chunk.js": "/static/js/2.8b429c52.chunk.js",
+    "static/js/2.8b429c52.chunk.js.map": "/static/js/2.8b429c52.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d9b2f0f0c29c4e6f02f9f9aa96b796dd.js": "/precache-manifest.d9b2f0f0c29c4e6f02f9f9aa96b796dd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ffa9e968.chunk.css.map": "/static/css/main.ffa9e968.chunk.css.map",
+    "static/js/2.8b429c52.chunk.js.LICENSE.txt": "/static/js/2.8b429c52.chunk.js.LICENSE.txt",
+    "static/media/logo-black-inner-gold-resized.png": "/static/media/logo-black-inner-gold-resized.0cf9c332.png",
+    "static/media/logo-no-text.png": "/static/media/logo-no-text.0895c791.png",
+    "static/media/logo-sound.wav": "/static/media/logo-sound.b5764a67.wav",
+    "static/media/logo.svg": "/static/media/logo.8dad8028.svg",
+    "static/media/logo30_withLight.png": "/static/media/logo30_withLight.90ac50a6.png",
+    "static/media/stars.jpeg": "/static/media/stars.4b1c303c.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.315e724a.js",
+    "static/js/2.8b429c52.chunk.js",
+    "static/css/main.ffa9e968.chunk.css",
+    "static/js/main.b1fe49d1.chunk.js"
+  ]
+}
