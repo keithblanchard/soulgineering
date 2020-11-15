@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.ffa9e968.chunk.css",
-    "main.js": "/static/js/main.64e5392f.chunk.js",
-    "main.js.map": "/static/js/main.64e5392f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.315e724a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.315e724a.js.map",
-    "static/js/2.cd082a16.chunk.js": "/static/js/2.cd082a16.chunk.js",
-    "static/js/2.cd082a16.chunk.js.map": "/static/js/2.cd082a16.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9cbb154d68405e6dd09260f69a9520da.js": "/precache-manifest.9cbb154d68405e6dd09260f69a9520da.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.ffa9e968.chunk.css.map": "/static/css/main.ffa9e968.chunk.css.map",
-    "static/js/2.cd082a16.chunk.js.LICENSE.txt": "/static/js/2.cd082a16.chunk.js.LICENSE.txt",
-    "static/media/logo-black-inner-gold-resized.png": "/static/media/logo-black-inner-gold-resized.0cf9c332.png",
-    "static/media/logo-no-text.png": "/static/media/logo-no-text.0895c791.png",
-    "static/media/logo-sound.wav": "/static/media/logo-sound.b5764a67.wav",
-    "static/media/logo.svg": "/static/media/logo.8dad8028.svg",
-    "static/media/logo30_withLight.png": "/static/media/logo30_withLight.90ac50a6.png",
-    "static/media/stars.jpeg": "/static/media/stars.4b1c303c.jpeg"
+    "main.css": "/soulgineering-deploy/static/css/main.404987ce.chunk.css",
+    "main.js": "/soulgineering-deploy/static/js/main.9f608856.chunk.js",
+    "main.js.map": "/soulgineering-deploy/static/js/main.9f608856.chunk.js.map",
+    "runtime-main.js": "/soulgineering-deploy/static/js/runtime-main.292b6ff5.js",
+    "runtime-main.js.map": "/soulgineering-deploy/static/js/runtime-main.292b6ff5.js.map",
+    "static/js/2.f541a603.chunk.js": "/soulgineering-deploy/static/js/2.f541a603.chunk.js",
+    "static/js/2.f541a603.chunk.js.map": "/soulgineering-deploy/static/js/2.f541a603.chunk.js.map",
+    "index.html": "/soulgineering-deploy/index.html",
+    "precache-manifest.f75ac755e4b08b45d849f7a4371b31ab.js": "/soulgineering-deploy/precache-manifest.f75ac755e4b08b45d849f7a4371b31ab.js",
+    "service-worker.js": "/soulgineering-deploy/service-worker.js",
+    "static/css/main.404987ce.chunk.css.map": "/soulgineering-deploy/static/css/main.404987ce.chunk.css.map",
+    "static/js/2.f541a603.chunk.js.LICENSE.txt": "/soulgineering-deploy/static/js/2.f541a603.chunk.js.LICENSE.txt",
+    "static/media/logo-black-inner-gold-resized.png": "/soulgineering-deploy/static/media/logo-black-inner-gold-resized.0cf9c332.png",
+    "static/media/logo-no-text.png": "/soulgineering-deploy/static/media/logo-no-text.0895c791.png",
+    "static/media/logo-sound.wav": "/soulgineering-deploy/static/media/logo-sound.b5764a67.wav",
+    "static/media/logo.svg": "/soulgineering-deploy/static/media/logo.8dad8028.svg",
+    "static/media/logo30_withLight.png": "/soulgineering-deploy/static/media/logo30_withLight.90ac50a6.png",
+    "static/media/stars.jpeg": "/soulgineering-deploy/static/media/stars.4b1c303c.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.315e724a.js",
-    "static/js/2.cd082a16.chunk.js",
-    "static/css/main.ffa9e968.chunk.css",
-    "static/js/main.64e5392f.chunk.js"
+    "static/js/runtime-main.292b6ff5.js",
+    "static/js/2.f541a603.chunk.js",
+    "static/css/main.404987ce.chunk.css",
+    "static/js/main.9f608856.chunk.js"
   ]
 }
