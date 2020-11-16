@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.3bfb79f5.chunk.css",
+    "main.js": "./static/js/main.dfbba6b2.chunk.js",
+    "main.js.map": "./static/js/main.dfbba6b2.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.cf663cfc.js",
+    "runtime-main.js.map": "./static/js/runtime-main.cf663cfc.js.map",
+    "static/js/2.78ac9e0d.chunk.js": "./static/js/2.78ac9e0d.chunk.js",
+    "static/js/2.78ac9e0d.chunk.js.map": "./static/js/2.78ac9e0d.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.1aff0d6ae78abe53c0508bacecafb5a2.js": "./precache-manifest.1aff0d6ae78abe53c0508bacecafb5a2.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.3bfb79f5.chunk.css.map": "./static/css/main.3bfb79f5.chunk.css.map",
+    "static/js/2.78ac9e0d.chunk.js.LICENSE.txt": "./static/js/2.78ac9e0d.chunk.js.LICENSE.txt",
+    "static/media/home.module.css": "./static/media/VESPASIAN_TIMES.6dc5bab8.ttf",
+    "static/media/logo-black-inner-gold-resized.png": "./static/media/logo-black-inner-gold-resized.0cf9c332.png",
+    "static/media/logo-no-text.png": "./static/media/logo-no-text.0895c791.png",
+    "static/media/logo.svg": "./static/media/logo.8dad8028.svg",
+    "static/media/logo30_withLight.png": "./static/media/logo30_withLight.90ac50a6.png",
+    "static/media/stars.jpeg": "./static/media/stars.4b1c303c.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf663cfc.js",
+    "static/js/2.78ac9e0d.chunk.js",
+    "static/css/main.3bfb79f5.chunk.css",
+    "static/js/main.dfbba6b2.chunk.js"
+  ]
+}
