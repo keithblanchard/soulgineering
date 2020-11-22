@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41cece1ba1f73b1658b2b618c36e6d6a",
+    "revision": "3bf051ea48f94d54c53eb0f808eb4e51",
     "url": "./index.html"
   },
   {
-    "revision": "6723d8dad16b6e210458",
-    "url": "./static/css/main.95f63374.chunk.css"
+    "revision": "4cd7704c981f8afca588",
+    "url": "./static/css/main.dd1cd4c9.chunk.css"
   },
   {
-    "revision": "20e88049cd88c05d398a",
-    "url": "./static/js/2.3444ce61.chunk.js"
+    "revision": "8a3bcc0a0972d6dc294a",
+    "url": "./static/js/2.f7569059.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "./static/js/2.3444ce61.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.f7569059.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6723d8dad16b6e210458",
-    "url": "./static/js/main.9f4ee1dd.chunk.js"
+    "revision": "4cd7704c981f8afca588",
+    "url": "./static/js/main.c0220fb1.chunk.js"
   },
   {
     "revision": "512b6db9c490a7a3caf2",
@@ -32,16 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/VESPASIAN_TIMES.6dc5bab8.ttf"
   },
   {
-    "revision": "d189a7bed0db951e25550c89aa19efaa",
-    "url": "./static/media/expand_less-24px-gold.d189a7be.svg"
+    "revision": "f807bd3363a639fc294f71d878f51ea9",
+    "url": "./static/media/expand_less-24px-lightgray.f807bd33.svg"
   },
   {
     "revision": "47f91d3c18c094447076b81f340ea15e",
     "url": "./static/media/expand_less-24px.47f91d3c.svg"
   },
   {
-    "revision": "a5b2ce417e1f18f3938cbb6b3ee1a671",
-    "url": "./static/media/expand_more-24px-gold.a5b2ce41.svg"
+    "revision": "8e97d77d3740ce85bfb8d2b11f0c5aac",
+    "url": "./static/media/expand_more-24px-lightgray.8e97d77d.svg"
   },
   {
     "revision": "95a46151caf2550da82be2575a6b881c",
