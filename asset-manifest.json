@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.e5843c42.chunk.css",
-    "main.js": "./static/js/main.0853f4da.chunk.js",
-    "main.js.map": "./static/js/main.0853f4da.chunk.js.map",
+    "main.css": "./static/css/main.1f558653.chunk.css",
+    "main.js": "./static/js/main.10d5de59.chunk.js",
+    "main.js.map": "./static/js/main.10d5de59.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.02e66a45.js",
     "runtime-main.js.map": "./static/js/runtime-main.02e66a45.js.map",
     "static/js/2.1bb7140b.chunk.js": "./static/js/2.1bb7140b.chunk.js",
     "static/js/2.1bb7140b.chunk.js.map": "./static/js/2.1bb7140b.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.500b8b8a8f8532ad400d063531f0f5f8.js": "./precache-manifest.500b8b8a8f8532ad400d063531f0f5f8.js",
+    "precache-manifest.0640802baf6247d7a2ed379215cd8499.js": "./precache-manifest.0640802baf6247d7a2ed379215cd8499.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.e5843c42.chunk.css.map": "./static/css/main.e5843c42.chunk.css.map",
+    "static/css/main.1f558653.chunk.css.map": "./static/css/main.1f558653.chunk.css.map",
     "static/js/2.1bb7140b.chunk.js.LICENSE.txt": "./static/js/2.1bb7140b.chunk.js.LICENSE.txt",
     "static/media/KnowThyself.png": "./static/media/KnowThyself.780993ce.png",
     "static/media/home.module.css": "./static/media/VESPASIAN_TIMES.6dc5bab8.ttf",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.02e66a45.js",
     "static/js/2.1bb7140b.chunk.js",
-    "static/css/main.e5843c42.chunk.css",
-    "static/js/main.0853f4da.chunk.js"
+    "static/css/main.1f558653.chunk.css",
+    "static/js/main.10d5de59.chunk.js"
   ]
 }
